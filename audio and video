@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>audio&video"></title>
+</head>
+<body>
+    <h1>video file</h1>
+    <video width="500" height="200" controls></video>
+    <source src="https://youtu.be/JrrX-_johZ4?si=M6sjRjFqhbU-fLHm">
+    <h2>audio mp3</h2>
+    <audio controls></audio>
+    <source src="https://www.jiosaavn.com/song/jeena-jeena/XSU-CE1neQY">
+</body>
+</html>
